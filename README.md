@@ -45,6 +45,7 @@ Bonus question: Bear in mind that at any given time, there can be thousands of c
 
 ## Running
 Clone repository
+
 Run main.java to get results.
 
 Run test package to validate tests.
