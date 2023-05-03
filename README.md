@@ -1,10 +1,8 @@
-# iKhokha Tech Check
-
 ### Customer Review Analyzer
 ---
 ### Introduction
 
-At iKhokha, we love receiving feedback from our customers - especially when it's positive :) We would like to analyze our customer online reviews and comments and the new graduate was tasked to write a Java Application that will run through all the comments and create a report with totals to be used for business intelligence and marketing. 
+At Joe Soap, we love receiving feedback from our customers - especially when it's positive :) We would like to analyze our customer online reviews and comments and the new graduate was tasked to write a Java Application that will run through all the comments and create a report with totals to be used for business intelligence and marketing. 
 
 We currently have three metrics that we keep track of:
 
